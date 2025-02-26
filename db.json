@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "bf7c",
+      "name": "Vaibhav",
+      "email": "Vaibhav28@gmail.com",
+      "course": "Data Science"
+    },
+    {
+      "id": "f06c",
+      "name": "Vihan",
+      "email": "Vihan123@gamil.com",
+      "course": "Cyber security"
+    },
+    {
+      "id": "afdf",
+      "name": "Shubham",
+      "email": "shubhamd28@gmail.com",
+      "course": "Python full stack"
+    },
+    {
+      "id": "ca70",
+      "name": "Aarti",
+      "email": "aarti28@gmail.com",
+      "course": "Java full Stack"
+    }
+  ]
+}
